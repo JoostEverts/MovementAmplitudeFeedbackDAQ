@@ -1,0 +1,13 @@
+name: nidaqmx_env
+channels:
+  - defaults
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - scipy
+  - keyboard
+  - pip
+  - pip:
+      - sounddevice
+      - nidaqmx
