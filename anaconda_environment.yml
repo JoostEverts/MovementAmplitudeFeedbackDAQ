@@ -1,0 +1,31 @@
+name: AmplitudeFeedbackDAQ_env
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.10.13
+
+  # Scientific modules
+  - numpy=2.2.5
+  - scipy=1.15.3
+  - pandas=2.3.3
+
+  # Plotting
+  - matplotlib=3.10.7
+
+  # GUI
+  - tk=8.6
+
+  # IDE
+  - spyder=5.5.1
+
+
+
+  # Pip
+  - pip
+  - pip:
+      - sounddevice==0.5.3
+      - keyboard==0.13.5
+      - nidaqmx==1.3.0
+
