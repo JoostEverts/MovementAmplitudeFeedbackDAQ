@@ -1,0 +1,1 @@
+{"interceptAI0": [3.0, 1.3976301182882231], "interceptAI1": [3.0, 1.4035347969257757], "participantName": "PP1", "sampleFrequency": 300, "minFeedback": 0.0, "maxFeedback": 5.0, "feedbackBarHeight": 5.0, "targetBarHeight": 0.5, "useExcel": 0, "rightTarget": 1.0, "leftTarget": 2.0, "duration": 10.0, "metronomeDuration": 5.0, "metronomeFile": "metronome15Hz.wav", "trialNr": 1}
